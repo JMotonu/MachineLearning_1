@@ -1,0 +1,19 @@
+Variable,Data Type,Missing Values,Negative Values
+Row#,float64,0,0
+clonesize,float64,0,0
+honeybee,float64,0,0
+bumbles,float64,0,0
+andrena,float64,0,0
+osmia,float64,0,0
+MaxOfUpperTRange,float64,0,0
+MinOfUpperTRange,float64,0,0
+AverageOfUpperTRange,float64,0,0
+MaxOfLowerTRange,float64,0,0
+MinOfLowerTRange,float64,0,0
+AverageOfLowerTRange,float64,0,0
+RainingDays,float64,0,0
+AverageRainingDays,float64,0,0
+fruitset,float64,0,0
+fruitmass,float64,0,0
+seeds,float64,0,0
+yield,float64,0,0
