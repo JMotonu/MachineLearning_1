@@ -1,0 +1,35 @@
+# Python virtual environments
+.venv/
+.venv312/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Model checkpoints and downloaded models
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# Kaggle and Hugging Face caches
+.kaggle/
+.cache/
+kagglehub/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
+
+# Temporary files
+*.log
